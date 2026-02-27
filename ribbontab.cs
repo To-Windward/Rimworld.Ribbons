@@ -5,6 +5,10 @@ using System.Linq;
 using UnityEngine;
 using Verse;
 
+// Including the actual ribbon class to help to paint a
+// fuller picture of how the injection works, and what can
+// be added
+
 namespace RoebuckRibbons
 {
     public class RibbonExtension : DefModExtension
